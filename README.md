@@ -1,9 +1,9 @@
 <h1>Hi, I'm Jay! <br/><a href="https://github.com/jaymsamaniego">Azure Cloud Security Engineer</a>, and <a href="https://www.linkedin.com/in/jaymsamaniego/">IT Professional</a>
 
-<h2>Azure / Cloud Cybersecurity Project:</h2>
+<h2>My Projects:</h2>
 
-- <b>Azure Cloud SOC + Honeynet (Live Traffic)</b>
-  - [Azure SOC LAB](https://github.com/jaymsamaniego/Azure-Cloud-SOC-Honeynet)
+- <b>Azure Cloud / CyberSecurity Projects</b>
+  - [Building Cloud SOC LAB + HoneyNet (Live Traffic)](https://github.com/jaymsamaniego/Azure-Cloud-SOC-Honeynet)
 
 <h2>Connect with me:</h2>
 
