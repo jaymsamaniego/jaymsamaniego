@@ -2,7 +2,7 @@
 
 <h2>SOC Projects:</h2>
 
-- <b>Azure Cloud SOC + Honeynet</b>
+- <b>Azure Cloud SOC + Honeynet (Live Traffic)</b>
   - [Azure SOC LAB](https://github.com/jaymsamaniego/Azure-Cloud-SOC-Honeynet)
 
 <h2>Connect with me:</h2>
