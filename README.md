@@ -2,9 +2,9 @@
 <br/><a href="https://github.com/jaymsamaniego">Azure Cloud Security Engineer</a>, and <a href="https://www.linkedin.com/in/jaymsamaniego/">IT Professional!</a>
 I'm an enthusiastic IT professional with a passion for leveraging technology to streamline operations and tackle complex challenges. 🚀 Let's connect and explore the exciting world of IT together! 🌐💻 #TechEnthusiast #ITPro #GitHubAdventures 
   
-Thank you for visiting my GitHub! This repository is intended to keep track of my cybersecurity journey and share the knowledge I have acquire from the projects.
+<h2>Thank you for visiting my GitHub! This repository is intended to keep track of my cybersecurity journey and share the knowledge I have acquire from the projects.
 
-<h2>My Projects:</h2>
+<h3>My Projects:</h3>
 
 - <b>Azure Cloud / CyberSecurity Projects</b>
   - [Building Cloud SOC LAB + HoneyNet (Live Traffic)](https://github.com/jaymsamaniego/Azure-Cloud-SOC-Honeynet)
