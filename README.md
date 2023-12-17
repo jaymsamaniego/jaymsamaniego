@@ -1,4 +1,8 @@
-<h1>Hi, I'm Jay! <br/><a href="https://github.com/jaymsamaniego">Azure Cloud Security Engineer</a>, and <a href="https://www.linkedin.com/in/jaymsamaniego/">IT Professional</a>
+<h1>👋 Hi there! My name is Jay!
+<br/><a href="https://github.com/jaymsamaniego">Azure Cloud Security Engineer</a>, and <a href="https://www.linkedin.com/in/jaymsamaniego/">IT Professional!</a>
+I'm an enthusiastic IT professional with a passion for leveraging technology to streamline operations and tackle complex challenges. 🚀 Let's connect and explore the exciting world of IT together! 🌐💻 #TechEnthusiast #ITPro #GitHubAdventures 
+  
+ 
 
 <h2>My Projects:</h2>
 
