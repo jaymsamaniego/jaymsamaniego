@@ -1,6 +1,6 @@
 <h1>👋 Hi there! I'm Jay!
 
-I'm an enthusiastic <a href="https://www.linkedin.com/in/jaymsamaniego/">IT Professional!</a> with a passion for leveraging technology to streamline operations and tackle complex challenges. 🚀 Let's connect and explore the exciting world of IT together! 🌐💻 #TechEnthusiast #ITPro #GitHubAdventures 
+<h2> I'm an enthusiastic <a href="https://www.linkedin.com/in/jaymsamaniego/">IT Professional!</a> with a passion for leveraging technology to streamline operations and tackle complex challenges. 🚀 Let's connect and explore the exciting world of IT together! 🌐💻 #TechEnthusiast #ITPro #GitHubAdventures 
   
 <h2>This repository is intended to keep track of my cybersecurity journey and share the knowledge I have acquire from the projects.
 
